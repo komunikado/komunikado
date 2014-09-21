@@ -125,7 +125,7 @@ conn.on({
     }
 });
 
-// Appelle de la fonction connexion du serveur PeerJS.
+// Appel de la fonction connexion du serveur PeerJS.
 conn.connect();
 
 // Envoi du message se trouvant dans la zone de texte lors de l'appuis sur la touche entrée.
